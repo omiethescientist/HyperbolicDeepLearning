@@ -1,6 +1,8 @@
 # HyperbolicDeepLearning
 A set of hyperbolic neural networks for bioinformatic research 
 
+## HVAE
+
 Poincare Varitaional Autoencoder based on Emile Mathieu's work:
 
 https://github.com/emilemathieu/pvae/tree/master/pvae
@@ -48,7 +50,7 @@ double: Using float64 (Highly reccomended for numerical stability)
 
 cuda: use gpu
 
-To Do:
+## To Do:
 
 Work on using KNNG as input layer to create regular autoencoder based on Klimovskaia et. al 2019 
 
@@ -56,5 +58,6 @@ https://github.com/facebookresearch/PoincareMaps
 
 Work on creating a hyperbolic recurrent neural network in pytorch for TFBS prediction based on Ganea et. al 2018
 
-Contact:
+## Contact:
+
 kanaomar@msu.edu
